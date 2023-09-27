@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SawanKumar23
+- 👀 I’m interested in drug designing through computational work.
+- 🌱 I’m currently learning programming and different tools used in chemoinformatics.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- My Instagram ID- ig_sawankumar.
+- My LinkedIn profile link-www.linkedin.com/in/sawan-kumar-37882624b/
