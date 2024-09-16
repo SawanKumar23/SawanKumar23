@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SawanKumar23
+- 👋 Hi, I’m @SawanKumar
 - 👀 I’m interested in drug designing through computational work.
 - 🌱 I’m currently learning programming and different tools used in chemoinformatics.
 - 💞️ I’m looking to collaborate on ...
